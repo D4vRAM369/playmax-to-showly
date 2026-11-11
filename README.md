@@ -1,5 +1,7 @@
 # Playmax → Showly
 
+<p align="center"><b>Español</b> · <a href="README-EN.md">English</a></p>
+
 Convierte el export de datos de **Playmax** (`.zip`) en un **backup JSON que Showly importa** desde *Ajustes → Backup → Importar*: series, películas, episodios vistos, pendientes, abandonadas, favoritas y notas.
 
 Python 3.10+, sin dependencias. Necesita un **Client ID de Trakt** (gratis).
