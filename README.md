@@ -197,3 +197,15 @@ No usa red: sustituye Trakt por una versión falsa y comprueba redondeo de notas
 - Crear una lista "Favoritas" en el backup (`lists.l`) para no perder las películas favoritas.
 - Buscar por título los episodios sin match.
 - Subir el historial directamente a Trakt (`/sync/history`) en lugar de generar un backup.
+
+## Todo documentado y pequeñas notas personales
+
+**He subido toda la documentación generada** por la [skill PBL-Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler) del sencillo y rápido proceso.
+
+**Esto es un ejemplo muy simple de porqué me encanta la programación: atajar molestias o _dolores_ cotidianos** (como se le llamaría en inglés), **respecto a algo que quieres crear, mejorar, automatizar o hacer posible algo que, a priori, no estaba destinado a serlo.**
+
+**La IA ha cambiado el paradigma de la programación, del desarrollo, y en general, del mundo entero, y ha llegado para quedarse.** No han existido en la historia conocida mejores circunstancias que ahora, para aprender y/o hacer algo que siempre te ha gustado o has querido, pero no has tenido los recursos, el tiempo o las herramientas. Para hacer **una analogía**, voy a poner como ejemplo **este momentum que estamos viviendo**, **con la creación del ferrocarril y sus vías: supuso mejoras y avances ya sea en la movilización humana, en acelerar y crear cadenas de suministro, y con ello grandes potencias.**
+
+**Pero obviamente no todos salieron beneficiados de eso**, ya que antes de su llegada, muchos ya se ganaban el pan con sus medios de transporte (más lentos, pero existentes previamente) tanto para materias primas como para que la propia población pudiera moverse, y llegar más lejos de lo que soñó.
+
+Con la Inteligencia Artificial está sucediendo exactamente lo mismo. Creo que es una comparativa bastante acertada para describir el mundo del desarrollo y de la programación hoy día, en la parte que le corresponde.
